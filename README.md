@@ -5,7 +5,7 @@
 - 😄 Status: learning...
 - ⚡ Welcome to my studio - BUG STUDIO.
 
-# About * BUG STUDIO *
+# About BUG STUDIO
 > Current projects:
 > - Random
 > - Draft
