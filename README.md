@@ -1,3 +1,5 @@
+# My profile
+![https://github.com/sudo0015/sudo0015/blob/main/icon.svg]
 - 👋 Hi, I’m sudo.
 - 👀 I’m interested in music and coding.
 - 🌱 I’m currently learning WinUI, MAUI, Qt...
